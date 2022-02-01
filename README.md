@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thon27
 - 👀 I’m interested in learn coding the most as i can
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on pojects that helps to grow
+- 💞️ I’m looking to collaborate on pojects that helps me to grow
 - 📫 How to reach me Isunayoshi11@outlook.com
 
 <!---
